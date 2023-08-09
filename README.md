@@ -14,3 +14,7 @@ APIClient foi desenvolvida com o intuito de gerenciar o cadastro de usuários, p
 - Maven
 - PostgreSQL
 - JPA
+
+- # Autor
+   Eduardo da Silva Dandolini
+  Linkedln: 
