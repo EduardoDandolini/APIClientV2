@@ -15,7 +15,17 @@ APIClient foi desenvolvida com o intuito de gerenciar o cadastro de usuários, p
 - PostgreSQL
 - JPA
 
+# Como executar o projeto
+
+Pré-requisitos: Java 17
+
+```bash
+# clonar repositório
+git clone https://github.com/EduardoDandolini/APIClient
+```
  # Autor
    Eduardo da Silva Dandolini
   
    Linkedln: https://www.linkedin.com/in/eduardo-dandolini-b45493258/
+
+
